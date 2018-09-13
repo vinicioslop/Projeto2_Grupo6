@@ -1,6 +1,6 @@
 <%-- 
-    Document   : sobre
-    Created on : 13/09/2018, 09:12:46
+    Document   : home
+    Created on : 13/09/2018, 09:12:32
     Author     : vinic
 --%>
 
@@ -13,5 +13,8 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+        <a href="Amortizacao-Americana.jsp">Amortização Americana</a> ||
+        <a href="price.jsp">Tabela de Amortização Price</a> ||
+        <a href="sobre.jsp">Sobre</a>
     </body>
 </html>
