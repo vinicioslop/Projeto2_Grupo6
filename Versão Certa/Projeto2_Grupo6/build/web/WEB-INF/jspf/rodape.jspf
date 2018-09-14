@@ -1,0 +1,13 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div class="container-fluid" style="max-height: 200px; ">
+<footer class="footer-css" style="; position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #4169E1;
+    color: white;
+    text-align: center;">
+    <p class="fonte">Desenvolvido em Setembro/2018</p>
+</footer>
+</div>
