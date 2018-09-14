@@ -39,13 +39,13 @@
                         </div>
                         <div class="panel-footer">
 
-                            <a href="" class="btn btn-lg" role="button">Calcular</a>
+                            <a href="Amortizacao-constante.jsp" class="btn btn-lg" role="button">Calcular</a>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="col-sm-4 col-xs-12" style="margin-top: -21.1%;margin-left: 34% ">
+            <div class="col-sm-4 col-xs-12" style="margin-top: -16.6%;margin-left: 34% ">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h1>Americana</h1>
@@ -63,7 +63,7 @@
                 </div>      
             </div>       
 
-            <div class="col-sm-4 col-xs-12"Style="margin-top: -21.1%; margin-left: 66%">
+            <div class="col-sm-4 col-xs-12"Style="margin-top: -16.6%; margin-left: 66%">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h1>Tabela Price</h1>
@@ -75,7 +75,7 @@
                     </div>
                     <div class="panel-footer">
 
-                        <a href="" class="btn btn-lg" role="button">Calcular</a>
+                        <a href="TabelaPrice.jsp" class="btn btn-lg" role="button">Calcular</a>
                     </div>
                 </div>      
             </div>
@@ -94,7 +94,7 @@
                     <h3>Peterson da Silva</h3>
                 </div>
                 <div class="col-md-4" style="margin-left: ">
-                    <h3>Vinicius Lopes Lima</h3>
+                    <h3>Vinícius Lopes Lima</h3>
                 </div>
 
 

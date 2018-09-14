@@ -83,10 +83,10 @@ public final class home_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write(" <nav class=\"navbar navbar-inverse navbar-fixed-top\">\n");
       out.write("            <div class=\"container-fluid\">\n");
       out.write("                <div class=\"navbar-header\">\n");
-      out.write("                    <a class=\"navbar-brand\" href=\"Home.jsp\">Home</a>\n");
-      out.write("                    <a class=\"navbar-brand\" href=\"AmortizacaoAmericana.jsp\">Amortização Americana</a>\n");
-      out.write("                    <a class=\"navbar-brand\" href=\"#\">Amortização Constante</a>\n");
-      out.write("                    <a class=\"navbar-brand\" href=\"#\">Tabela Price</a>\n");
+      out.write("                    <a class=\"navbar-brand\" href=\"home.jsp\">Home</a>\n");
+      out.write("                    <a class=\"navbar-brand\" href=\"Amortizacao-Americana.jsp\">Amortização Americana</a>\n");
+      out.write("                    <a class=\"navbar-brand\" href=\"Amortizacao-constante.jsp\">Amortização Constante</a>\n");
+      out.write("                    <a class=\"navbar-brand\" href=\"TabelaPrice.jsp\">Tabela Price</a>\n");
       out.write("                </div>\n");
       out.write("            </div>\n");
       out.write("        </nav>\n");
@@ -117,7 +117,7 @@ public final class home_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("                        </div>\n");
       out.write("                        <div class=\"panel-footer\">\n");
       out.write("\n");
-      out.write("                            <a href=\"\" class=\"btn btn-lg\" role=\"button\">Calcular</a>\n");
+      out.write("                            <a href=\"Amortizacao-constante.jsp\" class=\"btn btn-lg\" role=\"button\">Calcular</a>\n");
       out.write("                        </div>\n");
       out.write("                    </div>\n");
       out.write("                </div>\n");
@@ -136,7 +136,7 @@ public final class home_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("                    </div>\n");
       out.write("                    <div class=\"panel-footer\">\n");
       out.write("\n");
-      out.write("                        <a href=\"AmortizacaoAmericana.jsp\" class=\"btn btn-lg\" role=\"button\">Calcular</a>\n");
+      out.write("                        <a href=\"Amortizacao-Americana.jsp\" class=\"btn btn-lg\" role=\"button\">Calcular</a>\n");
       out.write("                    </div>\n");
       out.write("                </div>      \n");
       out.write("            </div>       \n");
@@ -153,7 +153,7 @@ public final class home_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("                    </div>\n");
       out.write("                    <div class=\"panel-footer\">\n");
       out.write("\n");
-      out.write("                        <a href=\"\" class=\"btn btn-lg\" role=\"button\">Calcular</a>\n");
+      out.write("                        <a href=\"TabelaPrice.jsp\" class=\"btn btn-lg\" role=\"button\">Calcular</a>\n");
       out.write("                    </div>\n");
       out.write("                </div>      \n");
       out.write("            </div>\n");
@@ -172,7 +172,7 @@ public final class home_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("                    <h3>Peterson da Silva</h3>\n");
       out.write("                </div>\n");
       out.write("                <div class=\"col-md-4\" style=\"margin-left: \">\n");
-      out.write("                    <h3>Vinicius Lopes Lima</h3>\n");
+      out.write("                    <h3>Vinícius Lopes Lima</h3>\n");
       out.write("                </div>\n");
       out.write("\n");
       out.write("\n");

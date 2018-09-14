@@ -12,9 +12,9 @@
     <body>
         <%@include file="WEB-INF/jspf/menu.jspf" %>
         <br/><br/><br/><br/>
-        <div class="container" style="margin-bottom: 60%">
+        <div class="container" style="margin-bottom: -40%">
             
-                 <div class="col-sm-10" style="margin-right: 60%">
+                 <div class="col-sm-10" style="margin-right: -40%">
                             <form method="post" class="fonte">
                                 Empréstimo inicial (em R$): <br><input type="text" name="C"><br><br>
                                 Tempo (em meses): <br><input type="text" name="n"><br><br>

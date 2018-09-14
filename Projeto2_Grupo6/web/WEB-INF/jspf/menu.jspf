@@ -5,8 +5,8 @@
                 <div class="navbar-header">
                     <a class="navbar-brand" href="home.jsp">Home</a>
                     <a class="navbar-brand" href="Amortizacao-Americana.jsp">Amortização Americana</a>
-                    <a class="navbar-brand" href="#">Amortização Constante</a>
-                    <a class="navbar-brand" href="price.jsp">Tabela Price</a>
+                    <a class="navbar-brand" href="Amortizacao-constante.jsp">Amortização Constante</a>
+                    <a class="navbar-brand" href="TabelaPrice.jsp">Tabela Price</a>
                 </div>
             </div>
         </nav>
