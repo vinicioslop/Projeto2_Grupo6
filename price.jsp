@@ -23,7 +23,7 @@
            double PV = Double.parseDouble(request.getParameter("pv"));
            int Parcelas = Integer.parseInt(request.getParameter("parcelas"));
            double Juros = Double.parseDouble(request.getParameter("juros")) / 100;
-           int amortizacao;
+           double amortizacao;
            int linhas = Parcelas;
            double pmt=0;
            int i=0;
@@ -62,11 +62,17 @@
               <%
                   if(i==0){
                       out.println(" ");
+                      i++;
                   } else {
-                      out.println(pmt-auxJ);
+                      amortizacao = pmt-auxJ;
+                      out.println(amortizacao);
+                      
+                      PV = PV - amortizacao;
+                      
+                      i++;
                   }
               %>
-              </td>    
+              </td>
         </tr>
         <%}%>
         </table>
