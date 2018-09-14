@@ -54,7 +54,7 @@
                                 </table> 
                             <% }
                             }catch(Exception e){%> 
-                                <h3 class="h3fonte">Dados inconsistentes</h3>
+                                
                             <% } %>
                         
                 
